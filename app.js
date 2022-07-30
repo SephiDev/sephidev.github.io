@@ -16,7 +16,7 @@ $('#submit').click(function () {
                     [tr]
                     [td][b]REPORT DATE[/b][/td]
                     [td][b]REPORT TIME[/b][/td]
-                    [td][b]INSTRUCTED/EVALUATIVE[/b][/td][/tr]
+                    [td][b]INSTRUCTIVE/EVALUATIVE[/b][/td][/tr]
                     [tr]
                     [td]${$('input[name="date"]').val()}[/td]
                     [td]${$('input[name="time"]').val()}[/td]
