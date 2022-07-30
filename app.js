@@ -143,30 +143,19 @@ $('#submit').click(function () {
                     [td][b][center]SIGNATURES[/center][/b][/td][/tr][/transtable][hr][/hr]
                     [transtable=Arial]
                     [tr]
-                    [td][b]TRAINEE SIGNATURE[/b][/td]
+                    [td][b]LET SIGNATURE[/b][/td]
                     [td][b]DATE[/b][/td][/tr]
                     [tr]
                     [td]${$('input[name="trainee_first"]').val()} ${$('input[name="trainee_last"]').val()}[/TD]
                     [td]${$('input[name="date"]').val()}[/TD][/tr]
                     [tr]
-                    [td][b]FTO SIGNATURE[/b][/td]
+                    [td][b]PRD-II SIGNATURE[/b][/td]
                     [td][b]DATE[/b][/td][/tr]
                     [tr]
                     [td]${$('input[name="fto_first"]').val()} ${$('input[name="fto_last"]').val()}[/TD]
                     [td]${$('input[name="date"]').val()}[/TD][/tr][/transtable]
     
-       [transtable=Arial]
-                    [tr]
-                    [td][b][center]FEEDBACK FORM (TRAINEE USE ONLY)[/center][/b][/td][/tr][/transtable]
-    
-                    [transtable=Arial]
-                    [tr]
-                    [td][justify][b]INSTRUCTIONS:[/b]
-    At the completion of the Field Training Patrol, the trainee should submit a confidential performance evaluation on their FTO.
-    
-    The FTP Command will review each FTO Feedback that is completed by a  trainee. This will remain confidential information between FTP Command and the trainee. The information will be used to improve the overall performance of the FTO as a trainer and evaluator.
-    
-    [b][url=https://docs.google.com/forms/d/e/1FAIpQLScx0885aRp4uJtaxZPbAC_qyHoN5LFQ40XyXEpwymcfN5ay8A/viewform]FTO Feedback Form[/url][/b][/justify][/td][/tr][/transtable]`
+      
 
     $('#output').val(output);
 });
