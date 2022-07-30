@@ -8,7 +8,7 @@ $('#submit').click(function () {
     [img]https://i.imgur.com/ODe46mh.png[/img]
     
     [color=grey][size=100]LOS SANTOS COUNTY SHERIFF'S DEPARTMENT[/size][/color]
-    [color=black][size=150][b]FIELD TRAINING OBSERVATION REPORT[/b][/size][/color]
+    [color=black][size=150][b]PUBLIC RESPONSE DISPATCHER OBSERVATION REPORT[/b][/size][/color]
     [/center]
     
     
