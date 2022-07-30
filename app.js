@@ -153,7 +153,7 @@ $('#submit').click(function () {
                     [td][b]DATE[/b][/td][/tr]
                     [tr]
                     [td]${$('input[name="fto_first"]').val()} ${$('input[name="fto_last"]').val()}[/TD]
-                    [td]${$('input[name="date"]').val()}[/TD][/tr][/transtable]
+                    [td]${$('input[name="date"]').val()}[/TD][/tr][/transtable]`
     
       
 
